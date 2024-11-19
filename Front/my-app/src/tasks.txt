@@ -1,0 +1,10 @@
+1) Adicionar uma confirmação ao usuário depois que ele seleciona "Alimentar"
+ex. "Seu pet foi alimentado!"
+
+2) Ajustar o favicon.ico
+
+3) Ajustar rolagem vertical do Accordion
+
+Nomes sugeridos:
+- PetFeederGo
+- SmartPetFeeder
