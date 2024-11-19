@@ -253,7 +253,7 @@ app.get('/getQuantidade', async (req, res) => {
 
 app.put('/putQuantidade', async (req, res) => {
     try {
-        const ref = db.ref('/sistema/quantidade');
+        const ref = db.ref('/sistema/');
         const updateData = req.body;
         await ref.update(updateData); // Atualiza apenas os campos fornecidos
         res.status(200).send("Dados atualizados com sucesso");
