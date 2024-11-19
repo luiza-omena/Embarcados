@@ -1,0 +1,20 @@
+{
+  "name": "backembarcados",
+  "version": "1.0.0",
+  "description": "Back-end do projeto de embarcados onde estou desenvolvendo um alimentador de pets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "firebase-admin": "^12.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
